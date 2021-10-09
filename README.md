@@ -1,7 +1,7 @@
 # AgBioData GFF3 working group recommendations
 
 **Members**
- - AgBioData: Ethalinda Cannon, Andrew Farmer, Zhiliang Hu, Rex Nelson, Monica Poelchau, Surya Saha
+ - AgBioData: Ethalinda Cannon, Andrew Farmer, Zhi-Liang Hu, Rex Nelson, Monica Poelchau, Surya Saha
  - Alliance of Genome Resources: Scott Cain, Nathan Dunn, Sierra Moxon, Rob Buels
  - NCBI: Vamsi Kodali, Terence Murphy
 
